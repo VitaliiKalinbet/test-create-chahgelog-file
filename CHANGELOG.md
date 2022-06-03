@@ -1,5 +1,0 @@
-- Title some
-- feat: change app background
-- feat: added new styles
-- feat: change link text
-- Initial commit
